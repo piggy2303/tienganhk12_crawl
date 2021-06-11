@@ -1,0 +1,10 @@
+version: "3.1"
+
+services:
+  englosh:
+    image: python:3.7-slim
+    working_dir: /app
+    tty: true
+    volumes:
+      - .:/app
+    command: bash setup.sh

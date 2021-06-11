@@ -1,0 +1,438 @@
+================
+Question: Choose the word that differs from the rest in the position of the main stress.
+
+Answer: invent
+Answer: finish
+Answer: support
+Answer: involve
+================
+Question: Choose the word that differs from the rest in the position of the main stress.
+
+Answer: luggage
+Answer: sample
+Answer: spacecraft
+Answer: remote
+================
+Question: Choose the word that differs from the rest in the position of the main stress.
+
+Answer: happiness
+Answer: occasion
+Answer: pagoda
+Answer: deposit
+================
+Question: Choose the word that differs from the rest in the position of the main stress.
+
+Answer: mountainous
+Answer: natural
+Answer: wonderful
+Answer: successful
+================
+Question: Choose the word that differs from the rest in the position of the main stress.
+
+Answer: recycle
+Answer: semester
+Answer: certainly
+Answer: arrival
+================
+Question: Choose the word which has the underlined part pronounced differently from the others.
+
+Answer: laughs
+Answer: machines
+Answer: parents
+Answer: photographs
+================
+Question: Choose the word which has the underlined part pronounced differently from the others.
+
+Answer: talked
+Answer: passed
+Answer: searched
+Answer: removed
+================
+Question: Choose the word which has the underlined part pronounced differently from the others.
+
+Answer: brother
+Answer: this
+Answer: then
+Answer: thick
+================
+Question: Choose the word which has the underlined part pronounced differently from the others.
+
+Answer: couple
+Answer: trouble
+Answer: through
+Answer: double
+================
+Question: Choose the word which has the underlined part pronounced differently from the others.
+
+Answer: dialogue
+Answer: situation
+Answer: inform
+Answer: signal
+================
+Question: Choose the correct word order.
+always/ The/ at/ next/ barks/ door/ to/ us/ night/ dog/.
+
+Answer: The dog next door to us always barks at night.
+Answer: The dog next to us door always barks at night.
+Answer: The dog next door always at night barks to us.
+Answer: The dog next door to us barks always at night.
+================
+Question: Choose the correct word order.
+hard/ don’t/ really/ because/ Science/ I/ my/ is/ enjoy/ it/ homework/ doing/.
+
+Answer: My Science homework don’t enjoy I doing because it really is hard.
+Answer: I don’t enjoy doing my homework Science because really hard it is.
+Answer: Doing my Science homework I don’t enjoy because really it is hard.
+Answer: I don’t enjoy doing my Science homework because it is really hard.
+================
+Question: Choose the correct word order.
+of/ bottle/ We/ a/ chocolate/ milk/ some/ need/ and/.
+
+Answer: We need a bottle of milk and some chocolate.
+Answer: We need a bottle of chocolate and some milk.
+Answer: We need some bottle of milk and chocolate.
+Answer: We need a bottle and some of the milk chocolate.
+================
+Question: Choose the correct word order.
+quietly/ I/ hear/ want/ walked/ anyone/ me/ to/ because/ I/ downstairs/ didn’t/.
+
+Answer: I walked quietly downstairs because I didn’t want anyone to hear me.
+Answer: I didn’t want anyone to hear me because I walked quietly downstairs.
+Answer: Because I didn’t walked quietly downstairs I want anyone to hear me.
+Answer: I walked downstairs because I didn’t want anyone to hear me quietly.
+================
+Question: Choose the correct word order.
+is/ often/ warm/ in/ weather/ Spring/ The/.
+
+Answer: The weather is often warm in Spring.
+Answer: The weather often is warm in Spring.
+Answer: The weather is warm often in Spring.
+Answer: The weather is in Spring often warm.
+================
+Question: Choose the correct word order.
+famous/ reading/ I/ people/ about/ like/ books/.
+
+Answer: I like reading about people famous books.
+Answer: I like reading books about famous people.
+Answer: I like reading books about people famous.
+Answer: I like reading about people books famous.
+================
+Question: Choose the correct word order.
+short/ girl/ hair/ tall/ with/ black/ a/ is/ She/.
+
+Answer: She is a girl tall with short black hair.
+Answer: She is a tall girl with black short hair.
+Answer: She is a short girl with tall black hair.
+Answer: She is a tall girl with short black hair.
+================
+Question: Choose the correct word order.
+when/ the/ do/ school/ my/ in/ from/ afternoon/ I/ I/ homework/ home/ come/.
+
+Answer: I do my homework in the afternoon when I come home from school.
+Answer: From school I do my homework in the afternoon when I come home.
+Answer: I come home in the afternoon when I do my homework from school.
+Answer: I do my afternoon homework when I come from home in the school.
+================
+Question: Choose the correct word order.
+am/ going to/ there/ I/ stay/ three days/ for/.
+
+Answer: I am going to stay there for three days.
+Answer: I am going to there stay for three days.
+Answer: I am going to stay for three days there.
+Answer: I am going to stay for there three days.
+================
+Question: Choose the correct word order.
+to/ the theater/ Matthew/ asked/ get/ me/ could/ how/ he/.
+
+Answer: Matthew asked me how could he get to the theater.
+Answer: Matthew asked me how he could get to the theater.
+Answer: Matthew could asked me how he get to the theater.
+Answer: Matthew asked he how me could get to the theater.
+================
+Question: - "_____?" - "We play badminton and swim."
+
+Answer: What sports do you and your brother like?
+Answer: Which sports do you and your brother play?
+Answer: When do you and your brother play sports?
+Answer: What are you and your brother doing?
+================
+Question: They _____ each other since they were at university.
+
+Answer: know
+Answer: are knowing
+Answer: knew
+Answer: have known
+================
+Question: Tomorrow we’ll go to Noi Bai Airport to meet Maryam, _____ comes from Malaysia.
+
+Answer: who
+Answer: which
+Answer: whose
+Answer: where
+================
+Question: The news report contained _____ important information.
+
+Answer: many
+Answer: another
+Answer: an
+Answer: a lot of
+================
+Question: These are their books and those are _____.		
+
+Answer: we
+Answer: our
+Answer: ours
+Answer: us
+================
+Question: In general, the meaning of _____ touching depends of the situation, culture, sex, and age.
+
+Answer: a
+Answer: an
+Answer: the
+Answer: ∅
+================
+Question: _____ his aunt really likes the apartment, she can't afford to buy it.
+
+Answer: Because
+Answer: So
+Answer: Although
+Answer: If
+================
+Question: It's _____ that Anthony got the job, since he has no experience of working in a hotel.
+
+Answer: surprised
+Answer: surprising
+Answer: unsurprising
+Answer: not surprised
+================
+Question: Yoko feels _____ again after her illness but she still cannot work _____.
+
+Answer: strong/ hardly
+Answer: strongly/ hard
+Answer: strongly/ hardly
+Answer: strong/ hard
+================
+Question: Recently, hotels have developed _____ restaurants.
+
+Answer: as rapidly as
+Answer: so rapidly as
+Answer: as rapid as
+Answer: more rapid
+================
+Question: If you _____ to reduce air pollution, you _____ public transportations as much as you can.
+
+Answer: want - will use
+Answer: want - use
+Answer: will want - should use
+Answer: want - should use
+================
+Question: They will hold a meeting in the large room _____ the morning of next Sunday.
+
+Answer: in
+Answer: on
+Answer: at
+Answer: of
+================
+Question: The whole world is waiting _____ a vaccine against Covid-19.
+
+Answer: for
+Answer: in
+Answer: by
+Answer: to
+================
+Question: Arranging flowers _____ among my mother’s hobbies. 
+
+Answer: is
+Answer: are
+Answer: were
+Answer: have been
+================
+Question: We’d like _____ a holiday in Sydney next summer.
+
+Answer: have
+Answer: had
+Answer: to have
+Answer: having
+================
+Question: It’s really dangerous. She is always forgetting to _____ the gas stove.
+
+Answer: turn off
+Answer: put on
+Answer: get over
+Answer: go on
+================
+Question:  Roy Trenton _____ in the countryside. But now he lives in the city.
+
+Answer: use to lie
+Answer: used live
+Answer: used to living
+Answer: used to live
+================
+Question: Remember _____ Tim about the party this weekend!
+
+Answer: to tell
+Answer: telling
+Answer: tell
+Answer: told
+================
+Question: No one ever improves pronunciation and _____ by watching someone else’s shape of the mouth! You improve English speaking by speaking, not watching. 
+
+Answer: rhythm
+Answer: tone
+Answer: accent
+Answer: sounds
+================
+Question: The passengers weren’t _____ that the ferry was delayed.
+
+Answer: telling
+Answer: to tell
+Answer: told
+Answer: tell
+================
+Question: Students from rich families can continue their higher _____ in foreign countries.
+
+Answer: education
+Answer: educator
+Answer: educate
+Answer: educational
+================
+Question: Netball is similar _____ basketball.
+
+Answer: with
+Answer: of
+Answer: to
+Answer: from
+================
+Question: Lan and Huong have never come to class late, _____? 
+
+Answer: have they
+Answer: haven't they
+Answer: has she
+Answer: hasn't she
+================
+Question: My mother advised me _____ an apple every day to stay healthy.
+
+Answer: eat
+Answer: ate
+Answer: to eat
+Answer: eating
+================
+Question: I gave him my e-mail address _____ he could keep in touch with me.
+
+Answer: in order
+Answer: so as to
+Answer: that
+Answer: so that
+================
+Question: Frank Sinatra has the voice of an angel. I wish he _____ still alive.
+
+Answer: would be
+Answer: were
+Answer: had been
+Answer: am
+================
+Question: The car was _____ that she couldn't afford it.
+
+Answer: such expensive
+Answer: so expensive
+Answer: too expensive
+Answer: expensive enough
+================
+Question:  The room wasn't _____ so I turned the heating on.
+
+Answer: hot enough
+Answer: too hot
+Answer: so hot
+Answer: enough hot
+================
+Question: He prefers soccer _____ tennis.
+
+Answer: from
+Answer: than
+Answer: to
+Answer: or
+================
+Question: There is no _____ in going to school if you're not willing to learn.
+
+Answer: reason
+Answer: aim
+Answer: point
+Answer: purpose
+================
+Question: Kenny asked for permission to smoke, but his colleague couldn’t put up with the smoke.
+- Kenny: "Do you mind if I smoke in here?"
+- Alex: "_____"
+
+Answer: I’d rather you didn’t.
+Answer: No, thank you.
+Answer: No, I couldn’t.
+Answer: Yes, you can.
+================
+Question: Choose the sentence which is CLOSEST in meaning to the given one.
+No houses in this street are older than his house.
+
+Answer: His house is the oldest house in this street.
+Answer: His house is oldest than other houses in this street.
+Answer: This house is the oldest house in this street.
+Answer: His house is not older than this house in the street.
+================
+Question: Choose the sentence that is closest in meaning to the following question.
+"Let's go to Ngoc Son temple on New Year's Eve," Mai said.
+
+Answer: Mai suggested that we went to Ngoc Son temple on New Year's Eve.
+Answer: Mai suggests going to Ngoc Son temple on New Year's Eve.
+Answer: Mai suggested going to Ngoc Son temple on New Year's Eve.
+Answer: Mai suggested go Ngoc Son temple on New Year's Eve.
+================
+Question: Choose the sentence that is closest in meaning to the following question.
+"It's a surprising gift. Thank you very much, Mary," said Mr.Pike.
+
+Answer: Mr.Pike promised to give Mary a surprising gift.
+Answer: Mr.Pike congratulated Mary on the surprising gift.
+Answer: Mr.Pike thanked Mary for the surprising gift.
+Answer: Mr.Pike thanked Mary though he did not really like gift.
+================
+Question: Choose the sentence that is closest in meaning to the following question.
+Life on earth will be destroyed if people keep cutting trees for their own benefits.
+
+Answer: If we stop to cut the trees for our benefits, the life on earth will be better.
+Answer: If we don't continue to cut trees for our benefits, life on earth will be destroyed.
+Answer: Life on earth will be destroyed unless people stop cutting trees for their own benefits.
+Answer: The more trees we cut for our benefits, the better the earth becomes.
+================
+Question: Read the passage and choose the best answer for the questions below. 
+Fourteen-year-old Neil Atkins talks about working on a house-building project in the United States.
+I got involved in the house-building project through my uncle Brian. We went to stay with him in the United States for six weeks during the summer holiday. He was helping out on the project and asked me to come along. At first, I wasn’t interested. I was enjoying watching lots of news channels on TV! But after a while, I got bored and went along to see what he was doing. I realized that what he was doing was really great!
+He was helping out for an organization that builds houses for people who can’t usually afford them. Instead, the organization buys all the wood and bricks and things you need to build a house. It lends the family the tools and hires some guys who know what they’re doing. They also get people like my uncle, who aren’t builders but who just want to help out in the community, to do the more simple building jobs. The family eventually pay all the money back to the organization, but they can do this for many years, and it’s much cheaper than buying a new house.
+I helped out with moving dirt and preparing tea. It was a bit disappointing that I wasn’t allowed to use the tools and do jobs like cutting wood and nailing things together. I understand why they do it, but I do design and technology at school so I know I could do it right. Some people had no idea how to use a hammer correctly! But if I go back next year, I’ll be able to do it, because I’ll be fifteen then.
+
+================
+Question: Why was Neil’s uncle involved in the building project?
+
+Answer:  He lent the family his tools. 
+Answer:  He is a qualified builder. 
+Answer: He enjoys helping out other people. 
+================
+Question: Which of the following is true about the building project?
+
+Answer: The organization provides free homes for poor people.
+Answer: The project was filmed and shown on TV.
+Answer: The organization helped to build the house.
+================
+Question: Neil was surprised that _____
+
+Answer: his uncle had such good building skill.
+Answer: some adults didn’t know how to use tools.
+Answer: he wasn’t allowed to cut wood.
+================
+Question: Neil will be able to use the tools next year because _____
+
+Answer: he is planning to study design and technology.
+Answer: he will be old enough.
+Answer: his uncle is going to teach him how to use them.
+================
+Question: What might Neil write in his diary about his experience?
+
+Answer: Building the house was okay, but it wasn’t as fun as watching American TV.
+Answer: Moving dirt and preparing tea was better than doing building work.
+Answer: Building the house was better than watching TV, but I wanted to do more building work.
